@@ -1,0 +1,170 @@
+{
+  "default": {
+    "ignore": true
+  },
+  "user-filters": {
+    "ignore": true
+  },
+  "ITA-0": {
+    "repo": "easylist/easylistitaly",
+    "dirs": ["/easylistitaly/"]
+  },
+  "ublock-filters": {
+    "repo": "uBlockOrigin/uAssets",
+    "dirs": [],
+    "files": ["/filters/filters.txt"]
+  },
+  "ublock-badware": {
+    "repo": "uBlockOrigin/uAssets",
+    "dirs": [],
+    "files": ["/filters/badware.txt"]
+  },
+  "ublock-privacy": {
+    "repo": "uBlockOrigin/uAssets",
+    "dirs": [],
+    "files": ["/filters/privacy.txt"]
+  },
+  "ublock-abuse": {
+    "repo": "uBlockOrigin/uAssets",
+    "dirs": [],
+    "files": ["/filters/resource-abuse.txt"]
+  },
+  "ublock-unbreak": {
+    "repo": "uBlockOrigin/uAssets",
+    "dirs": [],
+    "files": ["/filters/unbreak.txt"]
+  },
+  "ublock-quick-fixes": {
+    "repo": "uBlockOrigin/uAssets",
+    "dirs": [],
+    "files": ["/filters/quick-fixes.txt"]
+  },
+  "easylist": {
+    "repo": "easylist/easylist",
+    "dirs": ["/easylist/"]
+  },
+  "easyprivacy": {
+    "repo": "easylist/easylist",
+    "dirs": ["/easyprivacy/"]
+  },
+  "urlhaus-1": {
+    "repo": "uBlockOrigin/uAssets",
+    "files": ["/thirdparties/urlhaus-filter/urlhaus-filter-online.txt"]
+  },
+  "plowe-0": {
+    "repo": "uBlockOrigin/uAssets",
+    "files": ["/thirdparties/pgl.yoyo.org/as/serverlist"]
+  },
+  "adguard-annoyance": {
+    "repo": "AdguardTeam/AdguardFilters",
+    "dirs": [
+      "/AnnoyancesFilter/Cookies/sections/",
+      "/AnnoyancesFilter/MobileApp/sections/",
+      "/AnnoyancesFilter/Others/sections/",
+      "/AnnoyancesFilter/Popups/sections/",
+      "/AnnoyancesFilter/Widgets/sections/"
+    ]
+  },
+  "adguard-generic": {
+    "repo": "AdguardTeam/AdguardFilters",
+    "dirs": ["/BaseFilter/sections/"]
+  },
+  "adguard-mobile": {
+    "repo": "AdguardTeam/AdguardFilters",
+    "dirs": ["/MobileFilter/sections/"]
+  },
+  "adguard-social": {
+    "repo": "AdguardTeam/AdguardFilters",
+    "dirs": ["/SocialFilter/sections/"]
+  },
+  "adguard-spyware": {
+    "repo": "AdguardTeam/AdguardFilters",
+    "dirs": ["/SpywareFilter/sections/"]
+  },
+  "adguard-spyware-url": {
+    "repo": "AdguardTeam/AdguardFilters",
+    "dirs": ["/TrackParamFilter/sections/"]
+  },
+  "block-lan": {
+    "repo": "uBlockOrigin/uAssets",
+    "dirs": [],
+    "files": ["/filters/resource-abuse.txt"]
+  },
+  "curben-phishing": {
+    "static": "https://malware-filter.gitlab.io/malware-filter/phishing-filter.txt"
+  },
+  "curben-pup": {
+    "static": "https://curbengh.github.io/pup-filter/pup-filter.txt"
+  },
+  "dpollock-0": {
+    "static": "http://someonewhocares.org/hosts/hosts/"
+  },
+  "fanboy-cookiemonster": {
+    "repo": "easylist/easylist",
+    "files": ["/easylist_cookie/easylist_cookie_general_block.txt"]
+  },
+  "fanboy-social": {
+    "repo": "easylist/easylist",
+    "files": ["/fanboy-addon/fanboy_social_general_block.txt"]
+  },
+  "fanboy-thirdparty_social": {
+    "repo": "easylist/easylist",
+    "files": ["/fanboy-addon/fanboy_social_thirdparty.txt"]
+  },
+  "ublock-annoyances": {
+    "repo": "uBlockOrigin/uAssets",
+    "files": [
+      "/filters/annoyances-cookies.txt",
+      "/filters/annoyances-other.txt",
+      "/filters/annoyances.txt"
+    ]
+  },
+  "RUS-0": {
+    "repo": "easylist/ruadlist",
+    "files": ["/advblock/adservers.txt"]
+  },
+  "FRA-0": {
+    "repo": "AdguardTeam/AdguardFilters",
+    "dirs": ["/FrenchFilter/sections/"]
+  },
+  "SWE-1": {
+    "repo": "lassekongo83/Frellwits-filter-lists/",
+    "files": ["/Swedish/swe-ubo-filters.txt"]
+  },
+  "CHN-0": {
+    "repo:": "AdguardTeam/AdguardFilters",
+    "dirs": ["/ChineseFilter/sections/"]
+  },
+  "POL-0": {
+    "repo": "MajkiIT/polish-ads-filter",
+    "dirs": ["/polish-mikrotik-filters"]
+  },
+  "POL-2": {
+    "repo": "polish-privacy-filters",
+    "dirs": ["/"]
+  },
+  "HUN-0": {
+    "repo": "hufilter/hufilter",
+    "files": ["/hufilter-ublock.txt"]
+  },
+  "NOR-0": {
+    "repo": "DandelionSprout/adfilt",
+    "files": ["/NorwegianList.txt"]
+  },
+  "DEU-0": {
+    "repo": "easylist/easylistgermany",
+    "files": ["/easylistgermany/easylistgermany_general_block.txt"]
+  },
+  "spa-0": {
+    "repo": "easylist/easylistspanish",
+    "files": ["/easylistspanish/easylistspanish_general_block.txt"]
+  },
+  "spa-1": {
+    "repo": "AdguardTeam/AdguardFilters",
+    "dirs": ["/SpanishFilter/sections/"]
+  },
+  "NLD-0": {
+    "repo": "EasyDutch-uBO/EasyDutch",
+    "dirs": ["/EasyDutch"]
+  }
+}

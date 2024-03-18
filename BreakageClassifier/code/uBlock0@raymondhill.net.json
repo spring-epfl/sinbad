@@ -1,0 +1,8 @@
+{
+  "name": "uBlock0@raymondhill.net",
+  "description": "ignored",
+  "type": "storage",
+  "data": {
+    "adminSettings": "{\"userSettings\": {\"importedLists\": []}, \"selectedFilterLists\": [\"user-filters\"], \"userFilters\": \"\"}"
+  }
+}

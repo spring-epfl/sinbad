@@ -1,0 +1,6 @@
+{
+  "easylist": {
+    "repo": "easylist/easylist",
+    "dirs": ["/easylist/"]
+  }
+}

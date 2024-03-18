@@ -1,0 +1,372 @@
+{
+  "ABPindo": {
+    "repo": "ABPindo/indonesianadblockrules",
+    "files": ["/subscriptions/abpindo.txt"]
+  },
+  "EasyList China": {
+    "repo": "easylist/easylistchina",
+    "files": ["/easylistchina.txt"]
+  },
+  "EasyList Czech and Slovak": {
+    "repo": "tomasko126/easylistczechandslovak",
+    "files": ["/filters.txt"]
+  },
+  "EasyList Hebrew": {
+    "repo": "easylist/EasyListHebrew",
+    "files": ["/EasyListHebrew.txt"]
+  },
+  "EasyList Lithuania": {
+    "repo": "EasyList-Lithuania/easylist_lithuania",
+    "files": ["/easylistlithuania.txt"]
+  },
+  "Latvian List": {
+    "repo": "Latvian-List/adblock-latvian",
+    "files": ["/lists/latvian-list.txt"]
+  },
+  "AdBlockID": {
+    "repo": "realodix/AdBlockID",
+    "files": ["/dist/adblockid.adfl.txt"]
+  },
+  "Web Annoyances Ultralist": {
+    "repo": "yourduskquibbles/webannoyances",
+    "files": ["/ultralist.txt"]
+  },
+  "EasyList Thailand": {
+    "repo": "easylist-thailand/easylist-thailand",
+    "files": ["/subscription/easylist-thailand.txt"]
+  },
+  "Hungarian filter": {
+    "repo": "hufilter/hufilter",
+    "files": ["/hufilter-adguard.txt"]
+  },
+  "Xfiles": {
+    "repo": "gioxx/xfiles",
+    "files": ["/filtri.txt"]
+  },
+  "ABPVN List": {
+    "repo": "abpvn/abpvn",
+    "files": ["/filter/abpvn_adguard.txt"]
+  },
+  "Official Polish filters for AdBlock": {
+    "repo": "MajkiIT/polish-ads-filter",
+    "files": ["/polish-adblock-filters/adblock.txt"]
+  },
+  "Polish GDPR-Cookies Filters": {
+    "repo": "MajkiIT/polish-ads-filter",
+    "files": ["/cookies_filters/adblock_cookies.txt"]
+  },
+  "CJX's Annoyances List": {
+    "repo": "cjx82630/cjxlist",
+    "files": ["/cjx-annoyance.txt"]
+  },
+  "Polish Social Filters": {
+    "repo": "MajkiIT/polish-ads-filter",
+    "files": ["/adblock_social_filters/adblock_social_list.txt"]
+  },
+  "List-KR": {
+    "repo": "List-KR/List-KR",
+    "files": ["/filter-AdGuard.txt"]
+  },
+  "xinggsf": {
+    "repo": "xinggsf/Adblock-Plus-Rule",
+    "files": ["/rule.txt"]
+  },
+  "KAD - Anti-Scam": {
+    "repo": "FiltersHeroes/KAD",
+    "files": ["/KAD.txt"]
+  },
+  "Adblock List for Finland": {
+    "repo": "finnish-easylist-addition/finnish-easylist-addition",
+    "files": ["/Finland_adb.txt"]
+  },
+  "Persian Blocker": {
+    "repo": "MasterKia/PersianBlocker",
+    "files": ["/PersianBlocker.txt"]
+  },
+  "road-block light": {
+    "repo": "tcptomato/ROad-Block",
+    "files": ["/road-block-filters-light.txt"]
+  },
+  "Polish Annoyances Filters": {
+    "repo": "PolishFiltersTeam/PolishAnnoyanceFilters",
+    "files": ["/PPB.txt"]
+  },
+  "Polish Anti Adblock Filters": {
+    "repo": "olegwukr/polish-privacy-filters",
+    "files": ["/anti-adblock.txt"]
+  },
+  "NoCoin Filter List": {
+    "repo": "hoshsadiq/adblock-nocoin-list",
+    "files": ["/nocoin.txt"]
+  },
+  "Frellwit's Swedish Filter": {
+    "repo": "lassekongo83/Frellwits-filter-lists",
+    "files": ["/Frellwits-Swedish-Filter.txt"]
+  },
+  "YousList": {
+    "repo": "yous/YousList",
+    "files": ["/youslist.txt"]
+  },
+  "Polish Anti-Annoying Special Supplement": {
+    "repo": "PolishFiltersTeam/PolishAntiAnnoyingSpecialSupplement",
+    "files": ["/polish_rss_filters.txt"]
+  },
+  "Dandelion Sprout's Nordic Filters": {
+    "repo": "DandelionSprout/adfilt",
+    "files": [
+      "/NorwegianExperimentalList%20alternate%20versions/NordicFiltersAdGuard.txt"
+    ]
+  },
+  "Dandelion Sprout's Annoyances List": {
+    "repo": "DandelionSprout/adfilt",
+    "files": ["/AnnoyancesList"]
+  },
+  "Legitimate URL Shortener": {
+    "repo": "DandelionSprout/adfilt",
+    "files": ["/LegitimateURLShortener.txt"]
+  },
+  "Dandelion Sprout's Serbo-Croatian List": {
+    "repo": "DandelionSprout/adfilt",
+    "files": ["/SerboCroatianList.txt"]
+  },
+  "Macedonian adBlock Filters": {
+    "repo": "RandomAdversary/Macedonian-adBlock-Filters",
+    "files": ["/Filters"]
+  },
+  "EasyList": {
+    "repo": "easylist/easylist",
+    "dirs": ["/easylist/"]
+  },
+  "Bulgarian list": {
+    "static": "https://stanev.org/abp/adblock_bg.txt"
+  },
+  "EasyList Dutch": {
+    "repo": "easylist/easylistdutch",
+    "dirs": ["/easylistdutch"]
+  },
+  "EasyList Germany": {
+    "repo": "easylist/easylistgermany",
+    "dirs": ["/easylistgermany"]
+  },
+  "EasyList Italy": {
+    "repo": "easylist/easylistitaly",
+    "dirs": ["/easylistitaly"]
+  },
+  "Liste AR": {
+    "static": "https://easylist-downloads.adblockplus.org/Liste_AR.txt"
+  },
+  "Liste FR": {
+    "static": "https://easylist-downloads.adblockplus.org/Liste_FR.txt"
+  },
+  "ROList": {
+    "static": "https://www.zoso.ro/pages/rolist.txt"
+  },
+  "EasyPrivacy": {
+    "repo": "easylist/easylist",
+    "dirs": ["/easyprivacy/"]
+  },
+  "Icelandic ABP List": {
+    "static": "https://adblock.gardar.net/is.abp.txt"
+  },
+  "Greek AdBlock Filter": {
+    "repo": "kargig/greek-adblockplus-filter",
+    "files": ["/void-gr-filters.txt"]
+  },
+  "Fanboy's Annoyances": {
+    "repo": "easylist/easylist",
+    "files": [
+      "/fanboy-addon/fanboy_social_general_block.txt",
+      "/filters/annoyances-other.txt",
+      "/filters/annoyances.txt",
+      "/easylist_cookie/easylist_cookie_general_block.txt"
+    ]
+  },
+  "Fanboy's Social Blocking List": {
+    "repo": "easylist/easylist",
+    "files": ["/fanboy-addon/fanboy_social_general_block.txt"]
+  },
+  "EasyList Portuguese": {
+    "repo": "easylist/easylistportuguese",
+    "dirs": ["/easylistportuguese"]
+  },
+  "Peter Lowe's Blocklist": {
+    "static": "https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&mimetype=plaintext"
+  },
+  "Adblock Warning Removal List": {
+    "repo": "easylist/antiadblockfilters",
+    "dirs": ["/antiadblockfilters"]
+  },
+  "Online Malicious URL Blocklist": {
+    "static": "https://urlhaus-filter.pages.dev/urlhaus-filter-ag-online.txt"
+  },
+  "RU AdList: Counters": {
+    "static": "https://easylist-downloads.adblockplus.org/cntblock.txt"
+  },
+  "Fanboy's Enhanced Tracking List": {
+    "repo": "ryanbr/fanboy-adblock",
+    "dirs": ["/fanboy-tracking"]
+  },
+  "Estonian List": {
+    "static": "https://adblock.ee/list.php"
+  },
+  "Fanboy's Anti-Facebook List": {
+    "repo": "ryanbr/fanboy-adblock",
+    "files": ["/fanboy-antifacebook.txt"]
+  },
+  "I don't care about cookies": {
+    "static": "https://www.i-dont-care-about-cookies.eu/abp/"
+  },
+  "EasyList Spanish": {
+    "repo": "easylist/easylistspanish",
+    "dirs": ["/easylistspanish"]
+  },
+  "ROLIST2": {
+    "static": "https://zoso.ro/pages/rolist2.txt"
+  },
+  "Fanboy's Anti-thirdparty Fonts": {
+    "repo": "ryanbr/fanboy-adblock",
+    "files": ["/fanboy-antifonts.txt"]
+  },
+  "EasyList Cookie List": {
+    "repo": "easylist/easylist",
+    "files": ["/easylist_cookie/easylist_cookie_general_block.txt"]
+  },
+  "EasyList Polish": {
+    "repo": "easylistpolish/easylistpolish",
+    "dirs": ["/easylistpolish"]
+  },
+  "IndianList": {
+    "repo": "mediumkreation/IndianList",
+    "dirs": ["/IndianList"]
+  },
+  "Filter unblocking search ads and self-promotion": {
+    "repo": "AdguardTeam/AdGuardFilters",
+    "dirs": ["/UsefulAdsFilter/sections"]
+  },
+  "AdGuard Mobile Ads filter": {
+    "repo": "AdguardTeam/AdGuardFilters",
+    "dirs": ["/MobileFilter/sections"]
+  },
+  "AdGuard Turkish filter": {
+    "repo": "AdguardTeam/AdGuardFilters",
+    "dirs": ["/TurkishFilter/sections"]
+  },
+  "AdGuard Annoyances filter": {
+    "repo": "AdguardTeam/AdGuardFilters",
+    "dirs": [
+      "/AnnoyancesFilter/Cookies/sections",
+      "/AnnoyancesFilter/MobileApp/sections",
+      "/AnnoyancesFilter/Other/sections",
+      "/AnnoyancesFilter/Popups/sections",
+      "/AnnoyancesFilter/Widgets/sections"
+    ]
+  },
+  "AdGuard DNS filter": {
+    "repo": "AdguardTeam/AdGuardSDNSFilter",
+    "dirs": ["/Filters"]
+  },
+  "AdGuard French filter": {
+    "repo": "AdguardTeam/AdGuardFilters",
+    "dirs": ["/FrenchFilter/sections"]
+  },
+  "AdGuard URL Tracking filter": {
+    "repo": "AdguardTeam/AdGuardFilters",
+    "dirs": ["/TrackParamFilter/sections"]
+  },
+  "AdGuard Cookie Notices filter": {
+    "repo": "AdguardTeam/AdGuardFilters",
+    "dirs": ["/AnnoyancesFilter/Cookies/sections"]
+  },
+  "AdGuard Popups filter": {
+    "repo": "AdguardTeam/AdGuardFilters",
+    "dirs": ["/AnnoyancesFilter/Popups/sections/"]
+  },
+  "AdGuard Russian filter": {
+    "repo": "AdguardTeam/AdGuardFilters",
+    "dirs": ["/CyrillicFilters/RussianFilter/sections"]
+  },
+  "AdGuard Mobile App Banners filter": {
+    "repo": "AdguardTeam/AdGuardFilters",
+    "dirs": ["/AnnoyancesFilter/MobileApp/sections"]
+  },
+  "AdGuard Other Annoyances filter": {
+    "repo": "AdguardTeam/AdGuardFilters",
+    "dirs": ["/AnnoyancesFilter/Other/sections"]
+  },
+  "AdGuard Chinese filter": {
+    "repo": "AdguardTeam/AdGuardFilters",
+    "dirs": ["/ChineseFilter/sections"]
+  },
+  "AdGuard Widgets filter": {
+    "repo": "AdguardTeam/AdGuardFilters",
+    "dirs": ["/AnnoyancesFilter/Widgets/sections"]
+  },
+  "AdGuard Ukrainian filter": {
+    "repo": "AdguardTeam/AdGuardFilters",
+    "dirs": ["/CyrillicFilters/UkrainianFilter/sections"]
+  },
+  "AdGuard Base filter": {
+    "repo": "AdguardTeam/AdGuardFilters",
+    "dirs": ["/BaseFilter/sections"]
+  },
+  "AdGuard Tracking Protection filter": {
+    "repo": "AdguardTeam/AdGuardFilters",
+    "files": [
+      "/AnnoyancesFilter/Other/sections/annoyances.txt",
+      "/AnnoyancesFilter/Other/sections/self-promo.txt",
+      "/AnnoyancesFilter/Other/sections/tweaks.txt"
+    ]
+  },
+  "AdGuard Social Media filter": {
+    "repo": "AdguardTeam/AdGuardFilters",
+    "files": [
+      "/SocialFilter/sections/social_trackers.txt",
+      "/SocialFilter/sections/general_url.txt",
+      "/SocialFilter/sections/general_extensions.txt",
+      "/SocialFilter/sections/specific.txt",
+      "/SocialFilter/sections/general_elemhide.txt",
+      "/SocialFilter/sections/popups.txt",
+      "/SocialFilter/sections/allowlist.txt"
+    ]
+  },
+  "AdGuard Experimental filter": {
+    "repo": "AdguardTeam/AdGuardFilters",
+    "dirs": [
+      "/ExperimentalFilter/sections/English",
+      "/ExperimentalFilter/sections/Russian",
+      "/ExperimentalFilter/sections/Other",
+      "/ExperimentalFilter/sections/Mobile",
+      "/ExperimentalFilter/sections/Dangerous"
+    ]
+  },
+  "AdGuard German filter": {
+    "repo": "AdguardTeam/AdGuardFilters",
+    "dirs": ["/GermanFilter/sections"]
+  },
+  "AdGuard Japanese filter": {
+    "repo": "AdguardTeam/AdGuardFilters",
+    "dirs": ["/JapaneseFilter/sections"]
+  },
+  "AdGuard Dutch filter": {
+    "repo": "AdguardTeam/AdGuardFilters",
+    "dirs": ["/DutchFilter/sections"]
+  },
+  "AdGuard Spanish/Portuguese filter": {
+    "repo": "AdguardTeam/AdGuardFilters",
+    "dirs": ["/SpanishFilter/sections"]
+  },
+  "Korean Adblock List": {
+    "repo": "idolblock/idolblock",
+    "dirs": ["/KoreanList"]
+  },
+  "Vietnamese adblock filter list": {
+    "repo": "abpvn/abpvn",
+    "dirs": ["/filter/abpvn_adguard.txt"]
+  },
+  "uBlock Origin & AdGuard": {
+    "ignore": true
+  },
+  "Spam": {
+    "ignore": true
+  }
+}
